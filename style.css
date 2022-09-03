@@ -1,0 +1,82 @@
+body {
+    font-family: 'Roboto';
+    margin: 0;
+}
+
+.bar {
+    position: absolute;
+}
+
+.top {
+    background-image: url(images/1st\ background.webp);
+    height: 500px;
+    width: 100%;
+}
+
+.flexible-area {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.half-width1 {
+    margin-top: 15%;
+    margin-left: 10%;
+    height: 200px;
+    width: 300px;
+
+}
+
+.half-width1 button {
+    width: 200px;
+    height: 54px;
+    left: 249px;
+    top: 626px;
+    background: #16194F;
+    border-radius: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    color: #FFFFFF;
+}
+
+.half-width1 p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    color: #FFFFFF;
+}
+
+.half-width1 h1 {
+    font-style: normal;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.half-width2 {
+    position: absolute;
+    width: 587px;
+    height: 791.5px;
+    left: 700px;
+    top: 100px;
+}
+
+.half-width2 .img1 {
+    position: absolute;
+    top: 50%;
+    left: -20%;
+}
+
+.half-width2 .img2 {
+    position: absolute;
+    top: 0%;
+    left: 80%;
+}
+
+.half-width2 .img3 {
+    position: absolute;
+    top: 60%;
+    left: 80%;
+}
